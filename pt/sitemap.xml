@@ -3,1493 +3,1493 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/catalog/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/catalog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/catalog/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/catalog/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/contact/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/contact/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/contact/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/health-care/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/health-care/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/health-care/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/health-care/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/health-care/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/outdoor-and-indoor-sports/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/outdoor-and-indoor-sports/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/outdoor-and-indoor-sports/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/outdoor-and-indoor-sports/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/outdoor-and-indoor-sports/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/bcd1b9030b5f3d907e05bd293a189c35/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/bcd1b9030b5f3d907e05bd293a189c35/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/bcd1b9030b5f3d907e05bd293a189c35/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/bcd1b9030b5f3d907e05bd293a189c35/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/news/exhibitions-and-events/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/news/exhibitions-and-events/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/news/exhibitions-and-events/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/news/exhibitions-and-events/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/news/exhibitions-and-events/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/filament-yarn/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/filament-yarn/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/filament-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/filament-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/filament-yarn/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/functional-yarn/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/functional-yarn/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/functional-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/functional-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/functional-yarn/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/eco-friendly-yarn/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/eco-friendly-yarn/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/eco-friendly-yarn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/eco-friendly-yarn/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/eco-friendly-yarn/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/industry-and-military/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/industry-and-military/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/industry-and-military/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/industry-and-military/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/industry-and-military/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/abouts/corporate-milestone/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/abouts/corporate-milestone/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/abouts/corporate-milestone/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/abouts/corporate-milestone/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/abouts/corporate-milestone/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/outdoor-furniture/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/outdoor-furniture/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/outdoor-furniture/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/outdoor-furniture/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/outdoor-furniture/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/news/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/news/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/news/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/news/news/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/news/news/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/news/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/news/news/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/news/news/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/abouts/business-organization/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/abouts/business-organization/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/abouts/business-organization/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/abouts/business-organization/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/abouts/business-organization/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/abouts/management-principles/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/abouts/management-principles/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/abouts/management-principles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/abouts/management-principles/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/abouts/management-principles/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/products/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/products/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/products/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/products/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/abouts/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/abouts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/abouts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/abouts/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/abouts/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/abouts/competitive-advantages/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/abouts/competitive-advantages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/abouts/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/abouts/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/abouts/competitive-advantages/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/competitive-advantages/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/competitive-advantages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/competitive-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/competitive-advantages/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/competitive-advantages/"
     />
   </url>
   <url>
-    <loc>https://docs-acelon-yarn.web.app/pt/applications/sustainable-life/</loc>
+    <loc>https://mis3085.github.io/docs-acelon-yarn/pt/applications/sustainable-life/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acelon-yarn.web.app/en/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/en/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acelon-yarn.web.app/de/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/de/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acelon-yarn.web.app/es/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/es/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acelon-yarn.web.app/fr/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/fr/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acelon-yarn.web.app/it/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/it/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acelon-yarn.web.app/ru/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ru/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://docs-acelon-yarn.web.app/ar/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ar/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acelon-yarn.web.app/hi/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/hi/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acelon-yarn.web.app/ja/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ja/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://docs-acelon-yarn.web.app/ko/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/ko/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://docs-acelon-yarn.web.app/zh-tw/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/zh-tw/applications/sustainable-life/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acelon-yarn.web.app/pt/applications/sustainable-life/"
+      href="https://mis3085.github.io/docs-acelon-yarn/pt/applications/sustainable-life/"
     />
   </url>
 </urlset>
